@@ -9,7 +9,8 @@ This project contains the firmware and design assets for an autonomous and manua
 * **BMS Monitoring**: Real-time battery voltage calculation.
 
 ## Hardware Configuration
-![Schematic](ahmed-othman11/fire-and-ash-competition/Fire-and-Ash-Competition-612d1ebf558e5c1f5e42a9f5edb4f8e1f3d76948/Assets/Schematic.jpg)
+### Schematic
+![Schematic](Assets/Schematic.jpg)
 
 ### Component Pinout
 | Component | Pin | Description |
@@ -30,13 +31,13 @@ The robot is controlled via Serial/Bluetooth using the following keys:
 
 ## Visuals
 ### 3D Design
-![3D Model](ahmed-othman11/fire-and-ash-competition/Fire-and-Ash-Competition-612d1ebf558e5c1f5e42a9f5edb4f8e1f3d76948/Assets/3d model.jpg)
+![3D Model](Assets/3d%20model.jpg)
 
 ### Final Build
-![Final Project](ahmed-othman11/fire-and-ash-competition/Fire-and-Ash-Competition-612d1ebf558e5c1f5e42a9f5edb4f8e1f3d76948/final project.jpeg)
+![Final Project](final%20project.jpeg)
 
 ## Setup Instructions
-1.  Connect the components according to the `Schematic.jpg`.
-2.  Open `Final_Code.ino` in the Arduino IDE.
-3.  Ensure the `Servo` library is installed.
-4.  Upload the code to your Arduino Uno.
+1. Connect the components according to the `Schematic.jpg`.
+2. Open `Final_Code.ino` in the Arduino IDE.
+3. Ensure the `Servo` library is installed.
+4. Upload the code to your Arduino Uno.
